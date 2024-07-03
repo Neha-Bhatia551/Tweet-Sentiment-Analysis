@@ -1,4 +1,4 @@
-# Tweet-Classification
+# Tweets-Classification
 
 ### INTRODUCTION
 In today's digital age, where vast amounts of textual data are generated daily on social media platforms,
